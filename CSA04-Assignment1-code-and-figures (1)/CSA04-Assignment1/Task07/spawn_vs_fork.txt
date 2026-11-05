@@ -1,0 +1,2 @@
+fork+exec  x1000: 2.202 s (2202 us each)
+posix_spawn x1000: 0.855 s (855 us each)

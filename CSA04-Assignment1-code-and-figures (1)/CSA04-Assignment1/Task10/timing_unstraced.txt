@@ -1,0 +1,7 @@
+buffer 1: real 0.551s user 0.124s sys 0.422s (best of 3)
+buffer 16: real 0.038s user 0.000s sys 0.035s (best of 3)
+buffer 64: real 0.011s user 0.007s sys 0.004s (best of 3)
+buffer 512: real 0.004s user 0.000s sys 0.004s (best of 3)
+buffer 4096: real 0.003s user 0.000s sys 0.002s (best of 3)
+buffer 65536: real 0.003s user 0.002s sys 0.000s (best of 3)
+buffer 1048576: real 0.003s user 0.000s sys 0.002s (best of 3)

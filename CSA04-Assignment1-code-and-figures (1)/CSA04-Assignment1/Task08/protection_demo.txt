@@ -1,0 +1,4 @@
+user mode runs privileged instruction (cli)      -> killed by signal 11 (Segmentation fault)
+write to an unmapped address (0x8)               -> killed by signal 11 (Segmentation fault)
+write into read-only memory (string literal)     -> killed by signal 11 (Segmentation fault)
+read another process's address range (guess)     -> killed by signal 11 (Segmentation fault)

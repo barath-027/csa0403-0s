@@ -1,0 +1,18 @@
+bufsize        1  read() calls   1048576  wall 101.3730 s
+ 50.47    9.852508           9   1048577           write
+ 49.53    9.669867           9   1048578           read
+bufsize       64  read() calls    163840  wall 15.7540 s
+ 50.60    1.534034           9    163841           write
+ 49.37    1.496696           9    163842           read
+bufsize      512  read() calls     20480  wall 1.9138 s
+ 50.93    0.192500           9     20481           write
+ 48.80    0.184440           9     20482           read
+bufsize     4096  read() calls      2560  wall 0.2487 s
+ 51.49    0.028615          11      2561           write
+ 44.95    0.024983           9      2562           read
+bufsize    65536  read() calls       160  wall 0.0222 s
+ 69.92    0.006098          37       161           write
+ 25.60    0.002233          13       162           read
+bufsize  1048576  read() calls        10  wall 0.0072 s
+ 54.51    0.003723         338        11           write
+ 31.84    0.002175         181        12           read
