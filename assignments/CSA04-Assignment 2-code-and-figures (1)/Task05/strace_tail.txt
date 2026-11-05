@@ -1,0 +1,8 @@
+prlimit64(0, RLIMIT_STACK, NULL, {rlim_cur=8192*1024, rlim_max=RLIM64_INFINITY}) = 0
+munmap(0x7f846a0e1000, 54703)           = 0
+openat(AT_FDCWD, "patient.txt", O_RDONLY) = 3
+read(3, "BP 120/80 HR 72\n", 64)        = 16
+write(1, "BP 120/80 HR 72\n", 16)       = 16
+close(3)                                = 0
+exit_group(0)                           = ?
++++ exited with 0 +++
